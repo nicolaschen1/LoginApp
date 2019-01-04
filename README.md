@@ -19,6 +19,7 @@ In the Login App, type the Username and the Password defined in the source file 
 ![image1]( https://github.com/nicolaschen1/LoginApp/blob/master/images/loginApp1.PNG)
 ![image2]( https://github.com/nicolaschen1/LoginApp/blob/master/images/loginApp2.PNG)
 ![image3]( https://github.com/nicolaschen1/LoginApp/blob/master/images/loginApp3.PNG)
+![image4]( https://github.com/nicolaschen1/LoginApp/blob/master/images/loginApp4.PNG)
 
 ## License
 MIT License
